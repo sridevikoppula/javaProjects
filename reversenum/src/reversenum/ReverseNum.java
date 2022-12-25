@@ -4,7 +4,7 @@ public class ReverseNum {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-               int x = 343;
+               int x = 153;
                int tem = x;
                int sum = 0;
                while(x>0) {
